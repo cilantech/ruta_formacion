@@ -1,0 +1,11 @@
+.header{
+    /* position: fixed; para mantener la barra omnipresente*/
+    background-color:aqua ;
+    color: var(--color-texto);
+    display: flex;
+    font-size: var(--tama-text-normal);
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 0px 15px;
